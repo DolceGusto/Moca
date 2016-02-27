@@ -1,0 +1,1 @@
+contient la solution pour le client web (typiquement le projet issue d'un ide tel que intelliJ/Webstorm)

@@ -1,0 +1,1 @@
+contient la solution pour le client mobile (typiquement le projet issue d'un ide) 
