@@ -1,18 +1,18 @@
-/*utilisation des trigger pour la gestion des requête DML sur la table Transation */
--- to do : la même chose pour la table TransactionPlanifié
-
-/*directive :
-	- utiliser les variable local DECLARE @var = type 
-	- utiliser les deux tables INSERTED qui contien la nouvelle ligne inserer la même structure que l'autre 
-	  DELETED qui contient les ligne supprimées depuis le declenchement du trigger
-	  lien https://social.msdn.microsoft.com/Forums/sqlserver/en-US/11b470c2-fde7-4aeb-b1b3-a3768a91e350/how-to-get-old-value-while-writting-after-update-trigger?forum=transactsql
-*/
 CREATE TRIGGER afterInsertTransaction
 ON Transactions
 AFTER INSERT
 AS
 
-/*implementatino du corp*/
+ 
+ DECLARE @montantTransaction FLOAT;
+ DECLARE @idCompte INT;
+
+	 SELECT  @idCompte = INSERTED.idCompte, @montantTransaction = INSERTED.montant
+	 FROM INSERTED;
+
+	 UPDATE  compte
+	 SET solde = solde - @montantTransaction
+	 WHERE id = @idCompte ;
 
 GO
 
@@ -20,7 +20,29 @@ CREATE TRIGGER afterUpdateTransaction
 ON Transactions
 AFTER UPDATE
 AS
- /*implementation du corp */
+ 
+ DECLARE @ancienMontantTransaction FLOAT ;
+ DECLARE @nouveauMontantTransaction FLOAT ;
+ DECLARE @idCompte INT ;
+ DECLARE @difference FLOAT ;
+
+ 	SELECT @ancienMontantTransaction = DELETED.montant, @idCompte = DELETED.idCompte
+ 	FROM DELETED;
+
+ 	SELECT @nouveauMontantTransaction = INSERTED.montant
+ 	FROM INSERTED ;
+
+ 	SET @difference =  @nouveauMontantTransaction - @ancienMontantTransaction ;
+ 	 /* verifier la syntax relative à T-SQL */
+ 	IF(@difference = 0)
+	BEGIN
+ 		UPDATE  compte
+ 		SET compte.solde = compte.solde - @difference
+ 		WHERE compte.id = @idCompte ;
+
+ 	END
+ 	
+
 
 Go
 
@@ -29,5 +51,14 @@ ON Transactions
 AFTER DELETE
 AS
 
+DECLARE @montantTransaction FLOAT ;
+DECLARE @idCompte INT ;
+
+	SELECT @idCompte = DELETED.idCompte, @montantTransaction = DELETED.montant 
+	FROM DELETED ;
+
+	UPDATE compte
+	SET compte.solde = compte.solde +  @montantTransaction
+	WHERE compte.id = @idCompte ;
 
 GO
