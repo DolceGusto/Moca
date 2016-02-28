@@ -1,4 +1,4 @@
-/* Requête écrite en Transact -SQL c'est pas la même que SQL classic  */
+﻿/* Requête écrite en Transact -SQL c'est pas la même que SQL classic  */
 /*aide sur https://msdn.microsoft.com/fr-fr/library/cc879262(v=sql.120).aspx */
 
 CREATE TABLE PorteFeuille (
@@ -15,7 +15,7 @@ CREATE TABLE Utilisateur(
 						   nom VARCHAR(30) NOT NULL,
 						   prenom VARCHAR(30) NOT NULL,
 						   roleUtilisateur VARCHAR(30) NOT NULL CHECK (roleUtilisateur IN('createur', 'principal', 'normal')), /* les valeurs possible {"créateur","principal","normal"} */
-						   FOREIGN KEY(idPorteFeuille) REFERENCES PorteFeuille(id),
+						   FOREIGN KEY(idPorteFeuille) REFERENCES PorteFeuille(id) ON DELETE CASCADE,/* à la suppresion du portefeuille tous ses utilisateurs y sont supprimés*/
 						   PRIMARY KEY(id)
 						   ) ;
 
@@ -25,12 +25,12 @@ CREATE TABLE Privilege(
 							PRIMARY KEY(id)
 							);
 
-CREATE TABLE DroitPrivilege(
+CREATE TABLE PrivilegeUtilisateur(
 							idUtilisateur INT NOT NULL,
 							idPrivilege INT NOT NULL,
 							dateCreation DATETIME DEFAULT (getdate()),
-							FOREIGN KEY(idUtilisateur) REFERENCES Utilisateur(id),
-							FOREIGN KEY(idPrivilege) REFERENCES Privilege(id),
+							FOREIGN KEY(idUtilisateur) REFERENCES Utilisateur(id) ON DELETE CASCADE,
+							FOREIGN KEY(idPrivilege) REFERENCES Privilege(id) ON DELETE CASCADE,
 							PRIMARY KEY(idUtilisateur,idPrivilege)
 );
 
@@ -42,7 +42,7 @@ CREATE TABLE Compte(
 							designation VARCHAR(70) NOT NULL,
 							descript VARCHAR(140), /*description est un mot clé*/
 							PRIMARY KEY(id),
-							FOREIGN KEY(idUtilisateur) REFERENCES Utilisateur(id)
+							FOREIGN KEY(idUtilisateur) REFERENCES Utilisateur(id) ON DELETE CASCADE /*si un utilisateur est supprimé tous ses comptes seront supprimés*/
 							);
 
 CREATE TABLE Categorie(
@@ -61,8 +61,8 @@ CREATE TABLE Transactions(		/*avec un "s" à la fin sinon mot clé de T-SQL*/
 							dateCreation DATETIME DEFAULT( getDate()),
 							designation VARCHAR(70), /*peut �tre null l'utilisateur a pas le temps*/
 							typeTransact VARCHAR(10) NOT NULL CHECK (typeTransact IN('depense', 'entree')), /*valeur possible {"depense","entree"}*/
-							FOREIGN KEY(idCompte) REFERENCES Compte(id),
-							FOREIGN KEY(idCategorie) REFERENCES Categorie(id),
+							FOREIGN KEY(idCompte) REFERENCES Compte(id) , /* pour supprimer un compter il faut supprimer toutes les transaction liés au compte*/
+							FOREIGN KEY(idCategorie) REFERENCES Categorie(id) ,
 							PRIMARY KEY(id,idCompte)
 
 							);
