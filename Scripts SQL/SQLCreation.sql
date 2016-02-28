@@ -6,7 +6,7 @@ CREATE TABLE PorteFeuille (
 							designation VARCHAR(70),
 							dateCreation DATETIME DEFAULT( getDate()) ,/*la date de creation ajourd'hui*/
 							PRIMARY KEY(id)
-							) ;
+							);
 
 CREATE TABLE Utilisateur(
 						   id INT IDENTITY(1,1),
@@ -17,7 +17,7 @@ CREATE TABLE Utilisateur(
 						   roleUtilisateur VARCHAR(30) NOT NULL CHECK (roleUtilisateur IN('createur', 'principal', 'normal')), /* les valeurs possible {"créateur","principal","normal"} */
 						   FOREIGN KEY(idPorteFeuille) REFERENCES PorteFeuille(id) ON DELETE CASCADE,/* à la suppresion du portefeuille tous ses utilisateurs y sont supprimés*/
 						   PRIMARY KEY(id)
-						   ) ;
+						   );
 
 CREATE TABLE Privilege(
 							id INT IDENTITY(1,1),
@@ -32,7 +32,7 @@ CREATE TABLE PrivilegeUtilisateur(
 							FOREIGN KEY(idUtilisateur) REFERENCES Utilisateur(id) ON DELETE CASCADE,
 							FOREIGN KEY(idPrivilege) REFERENCES Privilege(id) ON DELETE CASCADE,
 							PRIMARY KEY(idUtilisateur,idPrivilege)
-);
+							);
 
 
 CREATE TABLE Compte(
@@ -67,6 +67,7 @@ CREATE TABLE Transactions(		/*avec un "s" à la fin sinon mot clé de T-SQL*/
 
 							);
 CREATE TABLE TransactionPeriodique(
+
 							id INT IDENTITY(1,1),
 							idCompte INT NOT NULL,
 							idCategorie INT NOT NULL,
@@ -78,15 +79,17 @@ CREATE TABLE TransactionPeriodique(
 							FOREIGN KEY(idCompte) REFERENCES Compte(id),
 							FOREIGN KEY(idCategorie) REFERENCES Categorie(id),
 							PRIMARY KEY(id,idCompte)
+
 							);
 
 CREATE TABLE Transfert(
+							id INT IDENTITY(1,1),
 							idCompteExpediteur INT NOT NULL,
 							idCompteRecepteur INT NOT NULL,
 							montant float NOT NULL,
 							dateCreation DATETIME DEFAULT (getdate()),
 							designation VARCHAR(70) NOT NULL,
+							PRIMARY KEY(idCompteRecepteur,idCompteExpediteur,id),
 							FOREIGN KEY(idCompteExpediteur) REFERENCES Compte(id),
 							FOREIGN KEY(idCompteRecepteur) REFERENCES Compte(id),
-							PRIMARY KEY(idCompteRecepteur,idCompteExpediteur,dateCreation)
-);
+							);
