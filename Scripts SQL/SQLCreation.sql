@@ -1,4 +1,4 @@
-﻿/* Requête écrite en Transact -SQL c'est pas la même que SQL classic  */
+/* Requête écrite en Transact -SQL c'est pas la même que SQL classic  */
 /*aide sur https://msdn.microsoft.com/fr-fr/library/cc879262(v=sql.120).aspx */
 /*fichier à executer en premier suivi de celui des triggers ensuite celui des données */
 
@@ -40,7 +40,7 @@ CREATE TABLE Compte(
 							id INT IDENTITY(1,1),
 							idUtilisateur INT NOT NULL,
 							solde float NOT NULL,
-							designation VARCHAR(70) NOT NULL UNIQUE, /*il ne peut pas avoir deux comptes de même nom*/
+							designation VARCHAR(70) NOT NULL, /*il ne peut pas avoir deux comptes de même nom*/
 							descript VARCHAR(140), /*description est un mot clé*/
 							PRIMARY KEY(id),
 							FOREIGN KEY(idUtilisateur) REFERENCES Utilisateur(id) ON DELETE CASCADE /*si un utilisateur est supprimé tous ses comptes seront supprimés*/
@@ -51,7 +51,7 @@ CREATE TABLE Categorie(
 							idPorteFeuille INT NOT NULL,
 							designation VARCHAR(70) NOT NULL,
 							descript VARCHAR(140),
-							PRIMARY KEY (id),
+							PRIMARY KEY (id,idPorteFeuille),
 							FOREIGN KEY(idPorteFeuille) REFERENCES PorteFeuille(id) ON DELETE CASCADE
 
 							);
