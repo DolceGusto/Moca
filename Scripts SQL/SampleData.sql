@@ -62,3 +62,12 @@ VALUES (1,4,50,'depense'),
 	   (7,4,25,'entree'),
 	   (5,4,5,'entree') ;
 
+INSERT INTO transfert(idCompteExpediteur,idCompteRecepteur,montant,designation)
+VALUES (1,6,150,'mettre du pognon à la banque'),
+	   (1,2,100,'pour Jane'),
+	   (1,3,25,'pour boby'),
+	   (1,4,10,'pour lindsey'),
+	   (2,3,75,'pour boby'),
+	   (2,4,100,'pour lindsey');
+
+
