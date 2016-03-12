@@ -1,0 +1,332 @@
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll.config
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.pdb
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\EntityFramework.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Owin.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\WebGrease.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.pdb
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\EntityFramework.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Helpers.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Mvc.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Optimization.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Razor.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Net.Http.Formatting.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.WebHost.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.SqlServer.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.csprojResolveAssemblyReference.cache
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.dll
+c:\users\wissem\documents\visual studio 2013\Projects\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.pdb
+F:\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.csprojResolveAssemblyReference.cache
+F:\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.dll
+F:\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.pdb
+F:\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll.config
+F:\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll
+F:\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.pdb
+F:\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.dll
+F:\MizaniaServeur\MizaniaServeur\bin\EntityFramework.dll
+F:\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Web.Infrastructure.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.dll
+F:\MizaniaServeur\MizaniaServeur\bin\Owin.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.dll
+F:\MizaniaServeur\MizaniaServeur\bin\WebGrease.dll
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.pdb
+F:\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.xml
+F:\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.xml
+F:\MizaniaServeur\MizaniaServeur\bin\EntityFramework.xml
+F:\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.xml
+F:\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Helpers.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Mvc.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Optimization.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Razor.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Net.Http.Formatting.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.WebHost.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.SqlServer.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+F:\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll.config
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.pdb
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\EntityFramework.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Owin.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\WebGrease.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\EntityFramework.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.dll
+C:\Users\user\Desktop\SIL\S2\PROJET\code\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.pdb
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll.config
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\MizaniaServeur.pdb
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\EntityFramework.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Web.Infrastructure.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Owin.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\WebGrease.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Helpers.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Mvc.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Optimization.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Razor.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Deployment.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.WebPages.Razor.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Antlr3.Runtime.pdb
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Newtonsoft.Json.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Net.Http.Formatting.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\System.Web.Http.WebHost.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\EntityFramework.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\EntityFramework.SqlServer.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Google.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Helpers.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Mvc.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Optimization.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Razor.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.csprojResolveAssemblyReference.cache
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.dll
+D:\Projet 2CS\Moca\Serveur\MizaniaServeur\MizaniaServeur\obj\Debug\MizaniaServeur.pdb

@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en" ng-app="MizaniaProjectModule">
+<head>
+    <title>Project Tracking Home Page</title>
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <link href="CSS/amelia.bootstrap.min.css" rel="stylesheet" />
+    <link href="CSS/Site.css" rel="stylesheet" />
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+
+    <script src="../Scripts/app.js">
+    </script>
+    <script src="../Controllers/UserBDController.js"></script>
+    <script src="../Services/usersService.js"></script>
+    
+</head>
+<body ng-controller="UserBDController">
+    <h1>{{Title}}</h1>
+
+    <form name="searchUsersForm" ng-submit="SearchUsers(UserName)">
+        <table>
+            <tr>
+                <td>Entrer un nom d'un utilisateur du portefeuille pour le chercher </td>
+                <td><input type="text" required placeholder="Entrer un nom de l'utilisateur du portefeuille pour le chercher" ng-model="UserName" class="form-control" style="width:300px" /></td>
+                <td><input type="submit" value="Chercher utilisateur" class="btn btn-primary" /></td>
+            </tr>
+        </table>
+    </form>
+
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr class="info">
+                <td>
+                    User ID
+                </td>
+                <td>
+                    User Name
+                </td>
+                <td>
+                    User Surname
+                </td>
+                <td>
+                    User AccountName
+                </td>
+                <td>
+                    User Role
+                </td>
+                <td>
+                    ID Protefeuille
+                </td>
+                <td>
+                    Modifier User
+                </td>
+                <td>
+                    Supprimer User
+                </td>
+            </tr>
+        </thead>
+        <tbody >
+            <tr class="success" ng-repeat="users in Users">
+                <td>
+                    {{users.id}}
+                </td>
+                <td>
+                    {{users.nom}}
+                </td>
+                <td>
+                    {{users.prenom}}
+                </td>
+                <td>
+                    {{users.nomDeCompte}}
+                </td>
+                <td>
+                    {{users.roleUtilisateur}}
+                </td>
+                <td>
+                    {{users.idPorteFeuille}}
+                </td>
+                <td>
+                    <a href="#ModifyEmployee/{{emp.employeeID}}" class="btn btn-info">Modify</a>
+                </td>
+                <td>
+                    <a href="#Employees" class="btn btn-info">Delete</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+</body>
+</html>
