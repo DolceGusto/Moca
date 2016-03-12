@@ -51,7 +51,7 @@ CREATE TABLE Categorie(
 							idPorteFeuille INT NOT NULL,
 							designation VARCHAR(70) NOT NULL,
 							descript VARCHAR(140),
-							PRIMARY KEY (id,idPorteFeuille),
+							PRIMARY KEY (id),
 							FOREIGN KEY(idPorteFeuille) REFERENCES PorteFeuille(id) ON DELETE CASCADE
 
 							);
